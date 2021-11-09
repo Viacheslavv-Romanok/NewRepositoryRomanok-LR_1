@@ -1,1 +1,12 @@
 Мій перший репозиторій
+
+echo "# ЮнусовНурлан-LR_1" >> README.md 
+git init 
+git добавить README.md 
+git commit -m "первая фиксация" 
+git branch -M main 
+git удаленное добавление источника https://github.com/YNurlan/YunusovNurlan-LR_1. мерзавец
+ git push -u origin main
+git удаленный добавить источник https://github.com/YNurlan/YunusovNurlan-LR_1.git
+ git branch -M main 
+git push -u origin main
