@@ -1,6 +1,3 @@
-fvuiyuyfofo
+Мій перший репозиторій 
 
-
-iuogo9r7t
-
-ilcvukyf
+Romanok Viacheslav - ШІД-11
